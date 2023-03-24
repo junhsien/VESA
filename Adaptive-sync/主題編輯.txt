@@ -1,0 +1,7 @@
+What Causes Screen Tearing or Game Stuttering?
+  假設遊戲執行的刷新率為 90 FPS(Frame Per Second)，顯示器的刷新率為60FPS，此時的顯卡是在60FPS的顯示器上跑90FPS的工作，因此會產生畫面分裂 (split image)
+What is V-Sync?
+What is Adaptive Sync?
+V-Sync VS Adaptive Sync: What’s the Difference?
+AMD FreeSync VS NVIDIA G-Sync: What’s the Difference?
+Final Thoughts
